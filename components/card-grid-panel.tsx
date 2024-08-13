@@ -1,7 +1,8 @@
 import { HoverEffect } from "./ui/card-hover-effect";
 
 export default function CardGridComponent({ title, item }: {
-    title: string, item: {
+    title: string,
+    item: {
         img: React.ReactNode;
         title: string;
         description: string;
