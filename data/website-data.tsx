@@ -7,7 +7,7 @@ const Skeleton = (param: { img: string }) => (
 
 export const topVRSideList = [
   {
-    img: <Skeleton img="/photo/0/01VR Bangers.png" />,
+    img: <Skeleton img="/photo/0/01VRBangers.png" />,
     title: "VR Bangers",
     description: "Discover the greatest library of ultra HD VR porn videos from 4K to 12K and enjoy the hottest 3D VR sex movies compatible with any device and headset.",
     link: "https://vrbangers.com/"
