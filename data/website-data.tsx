@@ -2,7 +2,7 @@
 import Image from "next/image";
 
 const Skeleton = (param: { img: string }) => (
-  <Image src={param.img} alt="png" width={1920} height={0} />
+  <Image src={param.img} alt=" logo" width={1920} height={0} />
 );
 
 export const topVRSideList = [
@@ -174,12 +174,12 @@ export const vrGay = [
     description: "The best VR gay porn videos in ultra HD. Enjoy immersive virtual reality gay anal sex movies in 4K-8K compatible with and any headset and device.",
     link: "https://vrbgay.com/"
   },
-  {
-    img: <Skeleton img="/photo/2/02SEXLIKEREAL-logo-white.png" />,
-    title: "SexLikeReal",
-    description: "VR Porn videos for your pleasure! SexLikeReal provides you virtual reality with the ultimate VR porn experience and offers the biggest library of high-quality VR movies.",
-    link: "https://www.sexlikereal.com/"
-  },
+  // {
+  //   img: <Skeleton img="/photo/2/02SEXLIKEREAL-logo-white.png" />,
+  //   title: "SexLikeReal",
+  //   description: "VR Porn videos for your pleasure! SexLikeReal provides you virtual reality with the ultimate VR porn experience and offers the biggest library of high-quality VR movies.",
+  //   link: "https://www.sexlikereal.com/"
+  // },
   {
     img: <Skeleton img="/photo/2/03VirtualRealGay.png" />,
     title: "VirtualRealGay",
