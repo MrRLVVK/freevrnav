@@ -8,7 +8,7 @@ export default function Home() {
       <div className="flex">
         <Image src="/VVK-logo.svg" alt="Free-VRPorn Logo" width={130} height={0} />
         <h1 className="md:text-4xl p-4 bg-clip-text text-transparent bg-gradient-to-b from-neutral-100 to-neutral-400 font-sans font-bold">
-          Free VR Porn Sites: Explore Best VR Porn of 2024! VR Porn, VR Sex Games, Hentai VR, and more
+          Free VR Porn: Best VR Porn Sites of 2024!
         </h1>
       </div>
       <CardGridComponent title="TOP VR PORN SITES" item={topVRSideList} />
